@@ -149,7 +149,7 @@ section.container {
   white-space: nowrap;
   background-color: var(--primary);
   color: #fff;
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 .contact-me:hover {
   transform: scale(1.1);
@@ -391,6 +391,7 @@ h3 .my-skill {
   margin-top: 40px;
   flex: 0 0 40%;
   max-width: 40%;
+  margin-bottom: 4rem;
 }
 .about .about-content .skills .row .skill-item {
   flex: 0 0 100%;
