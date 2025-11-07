@@ -149,6 +149,7 @@ section.container {
   white-space: nowrap;
   background-color: var(--primary);
   color: #fff;
+  margin-bottom: 2rem;
 }
 .contact-me:hover {
   transform: scale(1.1);
@@ -627,7 +628,7 @@ h3 .my-skill {
   display: inline-flex;
   background-color: var(--primary);
   color: #fff;
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
 }
 .contact-title {
   color: var(--primary);
